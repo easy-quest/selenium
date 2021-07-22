@@ -1,0 +1,4 @@
+*.pyc
+.idea
+chromedriver/chromedriver
+firefoxdriver/geckodriver
